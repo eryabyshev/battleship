@@ -43,3 +43,11 @@ form input{
   border-color: #53af13;
   font-size: 1em;
 }
+
+.hit{
+    background: url("./ship.png") no-repeat center center;
+}
+
+.miss{
+  background: url("./miss.png") no-repeat center center;
+}
